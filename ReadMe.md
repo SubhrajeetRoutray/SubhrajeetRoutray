@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+Hey there! I'm Subhrajeet Routray 👋
+
+🎓 B.Tech CSE (AI & ML) student  
+💻 Aspiring AI/ML Engineer  
+🚀 Exploring programming, artificial intelligence, and open-source development  
+🤝 Always excited to learn, build, and collaborate!
 🔭 I'm currently working on AI/ML projects, Python programming, and exploring innovative technologies.<br>👯 I'm looking to collaborate on AI/ML projects, open-source contributions, and hackathons.<br>🤝 I'm looking for help with Machine Learning, Deep Learning, and building real-world AI applications.<br>🌱 I'm currently learning Python, C, Data Structures, Machine Learning, and Web Development.<br>💬 Ask me about Python, C programming, AI/ML, hackathons, and technology.<br>⚡ Fun fact: I love turning ideas into reality through code and believe every bug is just another learning opportunity!
 
 
