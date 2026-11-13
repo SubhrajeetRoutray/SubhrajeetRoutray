@@ -15,6 +15,31 @@ Hey there! I'm Subhrajeet Routray 👋
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+🚧 Projects in Progress
+
+| Project | Status |
+|---|---|
+| C Programming Practice | 📘 Learning |
+| Java Programs | 📘 Learning |
+| Python Experiments | 📘 Learning |
+| AI/ML Projects | 🔍 Exploring |
+
+> The journey has just started. More projects coming soon! 🚀
+
+## 🗺️ The Roadmap
+
+- [ ] Start my coding journey
+- [ ] Explore C, Java and Python
+- [ ] Strengthen programming fundamentals
+- [ ] Master Data Structures & Algorithms
+- [ ] Develop real-world projects
+- [ ] Explore Artificial Intelligence
+- [ ] Learn Machine Learning
+- [ ] Contribute to open source
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SubhrajeetRoutray&theme=blue_navy&hide_border=false)<br/>
