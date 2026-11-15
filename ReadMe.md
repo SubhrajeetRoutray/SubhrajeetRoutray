@@ -1,54 +1,52 @@
-# 💫 About Me:
+<h1 align="center">Hey, I'm Subhrajeet Routray 👋</h1>
 
-Hey there! I'm Subhrajeet Routray 👋
+<h3 align="center">CSE (AI & ML) Student • Curious Builder • Learning by Doing</h3>
 
-🎓 B.Tech CSE (AI & ML) student at Birla Global University.
-💻 Aspiring AI/ML Engineer  
-🚀 Exploring programming, artificial intelligence, and open-source development  
-🤝 Always excited to learn, build, and collaborate!
-⚡ Interested in turning creative ideas into practical projects.
-🌱 Currently growing my skills, one line of code at a time.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krxin25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajeet-routray-85756a429) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/ToeZestyclose5181) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhrajeetKrish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhrajeetroutray07@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-🚧 Projects in Progress
-
-| Project | Status |
-|---|---|
-| C Programming Practice | 📘 Learning |
-| Java Programs | 📘 Learning |
-| Python Experiments | 📘 Learning |
-| AI/ML Projects | 🔍 Exploring |
-
-> The journey has just started. More projects coming soon! 🚀
-
-## 🗺️ The Roadmap
-
-- [ ] Start my coding journey
-- [ ] Explore C, Java and Python
-- [ ] Strengthen programming fundamentals
-- [ ] Master Data Structures & Algorithms
-- [ ] Develop real-world projects
-- [ ] Explore Artificial Intelligence
-- [ ] Learn Machine Learning
-- [ ] Contribute to open source
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SubhrajeetRoutray&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <a href="https://github.com/SubhrajeetRoutray">
+    <img src="https://komarev.com/ghpvc/?username=SubhrajeetRoutray&style=for-the-badge&color=blueviolet" alt="Profile views">
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SubhrajeetRoutray&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 A little about me
+
+🎓 B.Tech CSE (AI & ML) student at **Birla Global University**  
+🧠 Exploring **programming, AI/ML, and open source**  
+🛠️ Learning by building, experimenting, and improving one project at a time  
+🤝 Open to learning with other developers
+
+### 🧰 My current toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%2FML-Exploring-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learning-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+### 🔥 Featured project
+
+<a href="https://github.com/SubhrajeetRoutray/SoundShift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhrajeetRoutray&repo=SoundShift&theme=tokyonight" />
+</a>
+
+**SoundShift** — A media-link conversion project.  
+*Add a sentence here about what you personally built and the tools you used.*
+
+### 🌱 What I'm working toward
+
+- Strengthening my programming fundamentals
+- Building projects that solve small, real problems
+- Exploring the foundations of artificial intelligence and machine learning
+
+### 📫 Connect
+
+💻 **GitHub:** [@SubhrajeetRoutray](https://github.com/SubhrajeetRoutray) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krxin25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajeet-routray-85756a429) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/ToeZestyclose5181) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhrajeetKrish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhrajeetroutray07@gmail.com) 
+
+
+---
+
+<p align="center"><i>Learning in public. Building one step at a time. 🚀</i></p>
