@@ -27,14 +27,6 @@
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learning-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### 🔥 Featured project
-
-<a href="https://github.com/SubhrajeetRoutray/SoundShift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhrajeetRoutray&repo=SoundShift&theme=tokyonight" />
-</a>
-
-**SoundShift** — A media-link conversion project.  
-*Add a sentence here about what you personally built and the tools you used.*
 
 ### 🌱 What I'm working toward
 
@@ -45,6 +37,19 @@
 ### 📫 Connect
 
 💻 **GitHub:** [@SubhrajeetRoutray](https://github.com/SubhrajeetRoutray) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krxin25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajeet-routray-85756a429) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/ToeZestyclose5181) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhrajeetKrish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhrajeetroutray07@gmail.com) 
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SubhrajeetRoutray&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
+
 
 
 ---
