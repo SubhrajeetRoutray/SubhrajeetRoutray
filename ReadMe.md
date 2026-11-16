@@ -1,22 +1,20 @@
-
 <h1 align="center">Subhrajeet Routray</h1>
 
 <p align="center">
-  <code>CSE (AI & ML) Student</code> &nbsp;·&nbsp;
-  <code>Curious Builder</code> &nbsp;·&nbsp;
-  <code>Learning in Public</code>
+  <strong>CSE (AI &amp; ML) Student</strong> &nbsp;·&nbsp;
+  <strong>Curious Builder</strong> &nbsp;·&nbsp;
+  <strong>Learning in Public</strong>
 </p>
 
-
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SubhrajeetRoutray&style=flat-square&color=6366f1" alt="Profile views">
 </p>
 
-</div>
+---
 
 ## About
 
-I'm pursuing a **B.Tech in Computer Science and Engineering (AI & ML)** at **Birla Global University**. I'm building a strong foundation in programming while exploring artificial intelligence, machine learning, and open source.
+I'm pursuing a **B.Tech in Computer Science and Engineering (AI &amp; ML)** at **Birla Global University**. I'm building a strong foundation in programming while exploring artificial intelligence, machine learning, and open source.
 
 - 📚 Focused on learning through practice and projects
 - 🧠 Interested in AI/ML and software development
@@ -53,13 +51,13 @@ I'm pursuing a **B.Tech in Computer Science and Engineering (AI & ML)** at **Bir
 
 ## GitHub activity
 
-<div align="center">
-![](https://github-readme-stats.shion.dev/api?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SubhrajeetRoutray&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://streak-stats.demolab.com?user=SubhrajeetRoutray&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub statistics">
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=SubhrajeetRoutray&theme=blue_navy&hide_border=false" alt="GitHub contribution streak">
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages">
+</p>
 
 ## Connect
 
@@ -73,8 +71,6 @@ I'm pursuing a **B.Tech in Computer Science and Engineering (AI & ML)** at **Bir
 
 </div>
 
-<div align="center">
-  <sub>Learning consistently. Building with curiosity. 🚀</sub>
-</div>
+<p align="center"><i>Learning consistently. Building with curiosity. 🚀</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:111827&height=90&section=footer" width="100%" alt="">
