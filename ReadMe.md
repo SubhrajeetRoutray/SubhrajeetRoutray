@@ -54,9 +54,8 @@ I'm pursuing a **B.Tech in Computer Science and Engineering (AI & ML)** at **Bir
 ## GitHub activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhrajeetRoutray&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhrajeetRoutray&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+![](https://github-readme-stats.shion.dev/api?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
