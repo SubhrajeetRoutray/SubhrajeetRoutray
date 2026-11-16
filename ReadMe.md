@@ -1,6 +1,12 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=190&section=header&text=Subhrajeet%20Routray&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20(AI%20%26%20ML)%20Student%20%7C%20Learning%20by%20Building&descAlignY=59&descSize=16" width="100%" alt="Subhrajeet Routray — CSE AI and ML student">
+<h1 align="center">Subhrajeet Routray</h1>
+
+<p align="center">
+  <code>CSE (AI & ML) Student</code> &nbsp;·&nbsp;
+  <code>Curious Builder</code> &nbsp;·&nbsp;
+  <code>Learning in Public</code>
+</p>
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=SubhrajeetRoutray&style=flat-square&color=6366f1" alt="Profile views">
