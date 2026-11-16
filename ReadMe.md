@@ -55,10 +55,8 @@ I'm pursuing a **B.Tech in Computer Science and Engineering (AI & ML)** at **Bir
 
 <div align="center">
 ![](https://github-readme-stats.shion.dev/api?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SubhrajeetRoutray&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubhrajeetRoutray&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=SubhrajeetRoutray&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
